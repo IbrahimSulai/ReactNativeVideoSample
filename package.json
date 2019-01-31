@@ -7,9 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.6.3",
-    "react-native": "0.58.3",
-    "react-native-video": "^4.3.1"
+    "react": "16.6.0-alpha.8af6728",
+    "react-native": "0.57.4",
+    "react-native-video": "IbrahimSulai/react-native-video"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
